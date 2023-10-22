@@ -1,6 +1,6 @@
 Release notes
 
-New Feature URS-L25 added to devolpement.
+New Feature URS-L1 added to devolpement.
 - Makes the elevator stop moving when entered emergency state.
 
 New Feature URS-L5 added to devlopment.
