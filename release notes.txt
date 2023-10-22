@@ -5,3 +5,6 @@ New Feature URS-L1 added to devolpement.
 
 New Feature URS-L5 added to devlopment.
 - added QT application feature.
+
+New Feature URS-L16 added to devlopment.
+- added Lift States feature.
