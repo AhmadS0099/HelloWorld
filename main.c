@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+<<<<<<< HEAD
 
    printf("Speed is constant");
    printf("Hello, World!");
@@ -9,6 +10,8 @@ int main()
    printf("Lift states added");
    printf("Hello, Universe!");//person 2
    printf("Qt application feature");
+
    printf("Feature test");//Ahmad
    return 0;
+   =======
 }
