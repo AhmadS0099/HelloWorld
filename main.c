@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-<<<<<<< HEAD
 
    printf("Speed is constant");
    printf("Hello, World!");
@@ -12,6 +11,9 @@ int main()
    printf("Qt application feature");
 
    printf("Feature test");//Ahmad
+
+   printf("made it so elevator stops moving in emergency");//Lucas
+
    return 0;
-   =======
+
 }
